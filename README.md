@@ -32,5 +32,6 @@ sondern auf Verständlichkeit und sauberem Code.
 
 Der Code kann z.B. mit Node.js ausgeführt werden:
 
+```bash
 node script.js
    
